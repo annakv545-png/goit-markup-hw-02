@@ -1,0 +1,14 @@
+.logo{
+    font-family: 'Releway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #2E2F42;
+}
+.logo-light{
+    color: #4D5AE5;
+
+}
