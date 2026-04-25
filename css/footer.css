@@ -1,3 +1,9 @@
+.footer-container {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;    
+    text-align: center;     
+}
 .footer{
     background-color: #2E2F42;
     padding: 100px 0;
@@ -10,7 +16,7 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     display: inline-block;
-    margin-bottom: 0;
+    margin-bottom: 16px;
 }
 .logo-blue {
     color: #4d5ae5; 
@@ -23,5 +29,7 @@
     color: #f4f4fd;       
     line-height: 1.5;    
     letter-spacing: 0.02em;
+    margin: 0 auto;
+    max-width: none;
    
 }
