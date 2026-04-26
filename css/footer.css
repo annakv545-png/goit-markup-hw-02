@@ -1,15 +1,11 @@
-.footer-container {    
-    text-align: center;  
-    display: flex;
-    flex-direction: column; 
-    align-items: flex-start;   
-    max-width: 1158px;
+.footer-container {      
     margin: 0 auto;
     padding: 0 15px;
+    text-align: center;
 }
 .footer{
     background-color: #2E2F42;
-    padding: 100px 0;
+    
 }
 .logo-footer {
     font-family: "Raleway", sans-serif;
@@ -24,13 +20,12 @@
     text-decoration: none;
 }
 .logo-blue {
-    display: inline-block;
+
     color: #4d5ae5;
 }
 .footer-text {
     color: #f4f4fd;       
     line-height: 1.5;    
     letter-spacing: 0.02em;
-  
 
 }
