@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     font-family: 'Roboto' , sans-serif;
     color:#434455 ;
@@ -20,4 +21,28 @@ a{
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42; 
+=======
+body{
+    font-family: 'Roboto' , sans-serif;
+    color:#434455 ;
+    background-color: #ffffff;
+    line-height: 1.5;
+    font-weight: 400;
+    font-family: 16px;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.section-title {
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42; 
+>>>>>>> 186a12a92de93401cb6a6d9065cac9feabf3eda0
 }
