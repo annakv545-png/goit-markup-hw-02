@@ -1,6 +1,4 @@
 .footer-container {      
-    margin: 0 auto;
-    padding: 0 15px;
     text-align: center;
 }
 .footer{
@@ -16,7 +14,6 @@
     text-transform: uppercase;
     display: inline-block;
     color: #f4f4fd;
-    margin-bottom: 16px;
     text-decoration: none;
 }
 .logo-blue {
